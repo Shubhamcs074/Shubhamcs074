@@ -5,129 +5,130 @@
 <h1 align="center">Hey there! 👋 I'm Shubham Saini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+Student+%7C+AI+%26+Data+Science;Computer+Vision+%7C+Python+%7C+DSA;Learning+by+Building+Projects&center=true&width=650&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+Student+%7C+AI+%26+Data+Science;Computer+Vision+%7C+Python+%7C+DSA;Research+Oriented+%7C+Project+Driven+Learner;Learning+Deeply+%7C+Building+Honestly&center=true&width=700&height=45" />
 </p>
 
 <p align="center">
-🚀 <b>B.Tech CSE | AI & Data Science | Computer Vision | DSA | Research-Oriented Learner</b> 🚀
+  <b>🚀 AI & Data Science | Computer Vision | DSA | Research-Oriented Learner 🚀</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-saini-b76741274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shubhamsaini1027bagar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Shubhamcs074">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhamcs074&label=Profile+Views&color=blue&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Shubhamcs074&label=Profile+Views&color=blue&style=for-the-badge"/>
+</p>
+
+<hr/>
+
+## 🧠 About Me
+
+🎓 **B.Tech Computer Science & Engineering (2024–2028)**  
+🏫 **Shri Mata Vaishno Devi University, Katra**  
+📈 **CGPA:** 8.71 / 10  
+
+I am a **research-inclined Computer Science student** with strong interests in  
+**Artificial Intelligence, Data Science, and Computer Vision**.
+
+I enjoy:
+- Working on **real-world problem statements**
+- Building **ML-driven systems**
+- Strengthening **core CS fundamentals**
+- Understanding systems **beyond surface-level APIs**
+
+> I believe in learning deeply, building honestly, and growing consistently.
+
+---
+
+## 🛠️ Technical Skillset
+
+### 👨‍💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML / CV
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+  <img src="https://img.shields.io/badge/YOLOv8-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00ADEF?style=flat-square"/>
+</p>
+
+### 🌐 Dev & Tools
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🚀 Key Projects
 
-I am a **B.Tech Computer Science & Engineering student (2024–2028)** at  
-**Shri Mata Vaishno Devi University, Katra**, with a strong interest in **Artificial Intelligence, Data Science, and Computer Vision**.
-
-I enjoy working on **real-world problems**, building **ML-driven solutions**, and strengthening my **core CS fundamentals** through consistent practice and projects.
-
-- 🎓 CGPA: **8.71 / 10**
-- 📘 Core CS: **DSA, Operating Systems, Data Science & Analytics**
-- 🔍 Interested in **AI research, applied ML, and system-level understanding**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-- Python
-- C++
-- Java
-
-### 🤖 AI / Machine Learning
-- NumPy, Pandas, Scikit-learn
-- OpenCV, MediaPipe, YOLOv8
-- Deep Learning (Basics)
-- NLP (Basics)
-
-### 🌐 Development & Tools
-- Django, HTML, CSS, JavaScript
-- Git & GitHub
-- Linux
-- VS Code, Jupyter Notebook
-- Firebase Cloud Messaging
-- Power BI, Matplotlib
-
----
-
-## 🚀 Projects
-
-### 🟢 Traffic Light Detection System (YOLOv8)
-- Built an object detection system to classify traffic lights into **Red, Yellow, and Green**
-- Trained and evaluated a **YOLOv8 model** achieving **~92% accuracy**
-- Optimized real-time inference using **OpenCV** for low-latency performance
+### 🚦 Traffic Light Detection System (YOLOv8)
+- Built a real-time object detection system for **traffic light classification**
+- Achieved **~92% accuracy** on video streams
+- Optimized inference pipeline using **OpenCV**
 
 ### 🖐️ AI Virtual Mouse using Hand Gestures
-- Developed a **touch-free human–computer interaction system**
-- Used **MediaPipe** for real-time hand tracking
-- Mapped finger landmarks to mouse actions like click, drag, and scroll
+- Designed a **touch-free HCI system**
+- Implemented real-time hand tracking using **MediaPipe**
+- Mapped finger landmarks to mouse interactions
 
 ### 📊 Data Science & Analytics Project
-- Performed **data cleaning, preprocessing, and EDA** on large datasets
+- Cleaned and analyzed **large-scale datasets**
 - Applied **K-Means clustering** for customer segmentation
-- Built **interactive Power BI dashboards** to visualize KPIs and trends
+- Designed **Power BI dashboards** for business insights
 
 ---
 
 ## 🧑‍🔬 Experience
 
-### 🔬 Research Intern – Computer Vision  
-**Shri Mata Vaishno Devi University** | *May 2025 – July 2025*
-- Conducted research on **Camouflaged Object Detection (COD)** using **DSNet**
-- Implemented a **dual-branch feature fusion network** with **ResNet-50** (PyTorch)
-- Trained on **CAMO dataset** and evaluated on **CHAMELEON dataset**
+**🔬 Research Intern – Computer Vision**  
+*SMVD University | May 2025 – July 2025*  
+- Worked on **Camouflaged Object Detection (COD)**
+- Implemented **DSNet with ResNet-50 (PyTorch)**
+- Evaluated on **CAMO & CHAMELEON datasets**
 
-### 🐍 Python Programming Intern  
-**VaultofCodes (Online)** | *June 2025 – July 2025*
-- Solved Python programming tasks involving data handling and algorithmic logic
+**🐍 Python Programming Intern**  
+*VaultofCodes | June 2025 – July 2025*  
 
-### 🤖 AI & Data Analytics Intern (Virtual)  
-**AICTE | Shell India | Edunet Foundation** | *June 2025 – July 2025*
-- Completed structured training in **AI & Data Analytics** aligned with sustainability goals
+**🤖 AI & Data Analytics Intern (Virtual)**  
+*AICTE | Shell | Edunet Foundation*
 
 ---
 
-## 🧑‍🏫 Positions of Responsibility
+## 🧑‍🏫 Leadership & Responsibility
 
-### 🎯 Coordinator – Dev Growth Club  
-**Shri Mata Vaishno Devi University** | *Aug 2025 – Present*
-- Organized technical sessions on **Programming, Git/GitHub, and Emerging Tech**
-- Planned and delivered a **3-day Java Bootcamp** mentoring **100+ students**
-- Lead speaker for **hands-on Git & GitHub workshops**
-- Coordinated events, speakers, and student engagement
-
----
-
-## 📚 Currently Learning & Exploring
-
-- Advanced **Machine Learning & Computer Vision**
-- Strengthening **DSA** for problem-solving & interviews
-- Research-oriented AI projects
-- System-level understanding of OS & performance
+**🎯 Coordinator – Dev Growth Club**  
+- Mentored **100+ students**
+- Led **Java Bootcamp**
+- Delivered **Git & GitHub workshops**
+- Organized technical sessions & events
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamcs074&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamcs074&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamcs074&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamcs074&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
@@ -136,14 +137,14 @@ I enjoy working on **real-world problems**, building **ML-driven solutions**, an
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-saini-b76741274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:shubhamsaini1027bagar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
