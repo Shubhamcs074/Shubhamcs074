@@ -132,7 +132,7 @@ I enjoy:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamcs074&theme=react-dark&area=true&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shubhamcs074&theme=react-dark&area=true&hide_border=true" width="98%"/>
 </p>
 
 ---
