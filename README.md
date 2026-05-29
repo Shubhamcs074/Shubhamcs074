@@ -24,6 +24,7 @@
 ![CGPA 8.71](https://img.shields.io/badge/CGPA-8.71_%E2%98%85-FFD97D?style=for-the-badge&labelColor=3D2D7A&color=13112B)
 ![Batch 2028](https://img.shields.io/badge/SMVDU-Batch_'28-C4A8D4?style=for-the-badge&labelColor=5B4A9B&color=13112B)
 ![Dev Growth Club](https://img.shields.io/badge/Dev_Growth_Club-Coordinator-%E2%9C%A6-C4A8D4?style=for-the-badge&labelColor=3D2D7A&color=13112B)
+![GSSoC'26](https://img.shields.io/badge/GSSoC'26-%E2%9C%A6-7EFFF5?style=for-the-badge&labelColor=3D2D7A&color=13112B)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:13112B,40:3D2D7A,60:5B4A9B,100:13112B&height=4" width="100%"/>
 
@@ -127,6 +128,23 @@ I enjoy:
 - Led **Java Bootcamp**
 - Delivered **Git & GitHub workshops**
 - Organized technical sessions & events
+
+---
+
+## 🏅 GSSoC '26 Badges
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38bfb791-685f-437c-8358-c250f36a24cb" width="180"/>
+  <img src="https://github.com/user-attachments/assets/e58fb6ef-3c39-4f4a-998c-80ae02c3f3a4" width="180"/>
+  <img src="https://github.com/user-attachments/assets/56f084ce-525f-4fd4-82c4-ef2a2be901e4" width="180"/>
+  <img src="https://github.com/user-attachments/assets/284299e8-74e6-4b5f-91cc-3edf219a970f" width="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/058bbbc7-335f-4b8e-bb38-fdd3c677f940" width="180"/>
+  <img src="https://github.com/user-attachments/assets/10ded0c1-d489-4c89-92c9-fa1d77365063" width="180"/>
+  <img src="https://github.com/user-attachments/assets/82e3fc0e-99e1-4eea-a2b0-53de42ca7d58" width="180"/>
+</p>
 
 ---
 
