@@ -1,34 +1,38 @@
+<div align="center">
+
+<!-- WAVE TOP -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:3d1a6e,100:7b2d8b&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+<!-- PIXEL ART NAME -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" height="120" alt="Rocket Launch GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=100&pause=999999&color=c15ef2&center=true&vCenter=true&width=900&height=110&lines=%3E+Shubham+Saini_&background=00000000&repeat=false" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Shubham Saini</h1>
+<!-- SUBTITLE TYPING -->
+<a href="https://github.com/Shubhamcs074">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=2000&pause=1050&color=C084FC&center=true&vCenter=true&width=750&lines=%3E+Shubhamcs074;%3E+AI+%26+Data+Science+%2F%2F+B.Tech+CSE;%3E+Computer+Vision+Researcher;%3E+Dev+Growth+Club+Coordinator" alt="Typing SVG"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+Student+%7C+AI+%26+Data+Science;Computer+Vision+%7C+Python+%7C+DSA;Research+Oriented+%7C+Project+Driven+Learner;Learning+Deeply+%7C+Building+Honestly&center=true&width=700&height=45" />
-</p>
+<br/>
+<h4>I learn deeply, build honestly, and grow consistently.</h4>
+<br/>
 
-<p align="center">
-  <b>🚀 AI & Data Science | Computer Vision | DSA | Research-Oriented Learner 🚀</b>
-</p>
+<!-- BADGE ROW -->
+![AI/ML](https://img.shields.io/badge/AI%2FML-%E2%9C%A6-C4A8D4?style=for-the-badge&labelColor=3D2D7A&color=13112B)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-%E2%9C%A6-C4A8D4?style=for-the-badge&labelColor=3D2D7A&color=13112B)
+![Research Intern](https://img.shields.io/badge/Research_Intern-SMVDU-%E2%9C%A6-7EFFF5?style=for-the-badge&labelColor=3D2D7A&color=13112B)
+![CGPA 8.71](https://img.shields.io/badge/CGPA-8.71_%E2%98%85-FFD97D?style=for-the-badge&labelColor=3D2D7A&color=13112B)
+![Batch 2028](https://img.shields.io/badge/SMVDU-Batch_'28-C4A8D4?style=for-the-badge&labelColor=5B4A9B&color=13112B)
+![Dev Growth Club](https://img.shields.io/badge/Dev_Growth_Club-Coordinator-%E2%9C%A6-C4A8D4?style=for-the-badge&labelColor=3D2D7A&color=13112B)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-saini-b76741274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shubhamsaini1027bagar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Shubhamcs074">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:13112B,40:3D2D7A,60:5B4A9B,100:13112B&height=4" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhamcs074&label=Profile+Views&color=blue&style=for-the-badge"/>
-</p>
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Shubhamcs074&label=Profile+Views&color=7b2d8b&style=for-the-badge"/>
 
-<hr/>
+</div>
+
+---
 
 ## 🧠 About Me
 
@@ -45,7 +49,7 @@ I enjoy:
 - Strengthening **core CS fundamentals**
 - Understanding systems **beyond surface-level APIs**
 
-> I believe in learning deeply, building honestly, and growing consistently.
+> *"Learn deeply. Build honestly. Grow consistently."*
 
 ---
 
@@ -66,6 +70,8 @@ I enjoy:
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
   <img src="https://img.shields.io/badge/YOLOv8-black?style=flat-square"/>
   <img src="https://img.shields.io/badge/MediaPipe-00ADEF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSNet-ResNet50-7b2d8b?style=flat-square"/>
 </p>
 
 ### 🌐 Dev & Tools
@@ -101,13 +107,13 @@ I enjoy:
 ## 🧑‍🔬 Experience
 
 **🔬 Research Intern – Computer Vision**  
-*SMVD University | May 2025 – July 2025*  
+*SMVD University | May 2025 – July 2025*
 - Worked on **Camouflaged Object Detection (COD)**
 - Implemented **DSNet with ResNet-50 (PyTorch)**
 - Evaluated on **CAMO & CHAMELEON datasets**
 
 **🐍 Python Programming Intern**  
-*VaultofCodes | June 2025 – July 2025*  
+*VaultofCodes | June 2025 – July 2025*
 
 **🤖 AI & Data Analytics Intern (Virtual)**  
 *AICTE | Shell | Edunet Foundation*
@@ -116,7 +122,7 @@ I enjoy:
 
 ## 🧑‍🏫 Leadership & Responsibility
 
-**🎯 Coordinator – Dev Growth Club**  
+**🎯 Coordinator – Dev Growth Club**
 - Mentored **100+ students**
 - Led **Java Bootcamp**
 - Delivered **Git & GitHub workshops**
@@ -132,7 +138,7 @@ I enjoy:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shubhamcs074&theme=react-dark&area=true&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamcs074&theme=react-dark&area=true&hide_border=true" width="98%"/>
 </p>
 
 ---
@@ -141,15 +147,23 @@ I enjoy:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-saini-b76741274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shubhamsaini1027bagar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shubhamcs074">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“Learn deeply. Build honestly. Grow consistently.”</i>
-</p>
+<div align="center">
+
+<!-- WAVE BOTTOM -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d8b,50:3d1a6e,100:1a0533&height=100&section=footer" width="100%"/>
+
+*"Learn deeply. Build honestly. Grow consistently."*
+
+</div>
